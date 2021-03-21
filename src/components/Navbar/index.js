@@ -31,7 +31,7 @@ const Navbar = (props) => {
       <Nav scrollNav={scrollNav}>
         <NavbarContainer>
           <NavLogo to="home" smooth duration={500} spy exact>
-            dollaa
+            dolla
           </NavLogo>
           <MobileIcon onClick={props.toggle}>
             <FaBars />
